@@ -1,0 +1,18 @@
+.contact {
+  margin-bottom: 8px;
+}
+
+.btn {
+  border-color: transparent;
+  background-color: #535eaa;
+  color: #e2e6fa;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-left: 16px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #434d8d;
+  cursor: pointer;
+}
